@@ -2,7 +2,7 @@
 
 # Wi-Fi Password  (Python)
 
-The script steals saved Wi-Fi passwords from a Windows system and sends them via email using an Outlook account. 
+This script steals saved Wi-Fi passwords from a Windows system and sends them via email using an Outlook account. 
 
 ## Disclaimer
 This code is for **educational purposes only**. Unauthorized use of this script to steal Wi-Fi passwords is illegal and unethical. Please use responsibly.
