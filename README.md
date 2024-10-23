@@ -1,6 +1,6 @@
 ---
 
-# Wi-Fi Password  (Python)
+# Wi-Fi Cred Stealer  (Python)
 
 This script steals saved Wi-Fi passwords from a Windows system and sends them via email using an Outlook account. 
 
