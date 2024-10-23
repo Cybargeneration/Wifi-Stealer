@@ -21,7 +21,7 @@ This code is for **educational purposes only**. Unauthorized use of this script 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com//wifi-password-extractor.git
+git clone https://github.com/Cybargeneration/Wifi-Stealer.git
 cd Wifi-Stealer
 ```
 
