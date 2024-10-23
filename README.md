@@ -41,7 +41,7 @@ Open the script and replace the following variables with your Outlook email cred
 ### 4. Running the Script
 Run the script by executing:
 ```bash
-python steal_wifi_passwords.py
+python3 wifi.py
 ```
 The script will:
 - Retrieve the saved Wi-Fi profiles.
