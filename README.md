@@ -1,10 +1,8 @@
-Here's a **README** file for your GitHub repository:
-
 ---
 
-# Wi-Fi Password Extractor (Python)
+# Wi-Fi Password  (Python)
 
-This is the code demonstrated in the video. The script extracts saved Wi-Fi passwords from a Windows system and sends them via email using an Outlook account. 
+The script steals saved Wi-Fi passwords from a Windows system and sends them via email using an Outlook account. 
 
 ## Disclaimer
 This code is for **educational purposes only**. Unauthorized use of this script to steal Wi-Fi passwords is illegal and unethical. Please use responsibly.
@@ -23,8 +21,8 @@ This code is for **educational purposes only**. Unauthorized use of this script 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/wifi-password-extractor.git
-cd wifi-password-extractor
+git clone https://github.com//wifi-password-extractor.git
+cd Wifi-Stealer
 ```
 
 ### 2. Install Required Modules
@@ -82,4 +80,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to update the repository URL and adjust the description as necessary!
